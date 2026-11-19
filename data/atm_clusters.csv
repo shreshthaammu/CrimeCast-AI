@@ -1,0 +1,9 @@
+cluster_id,zone_id,atm_name,bank_operator,latitude,longitude,hourly_withdrawal_velocity,predicted_window,surveillance_cctv,quick_reaction_team,jurisdiction_station
+ATM-CL-01,H03,SBI E-Corner Transit Junction,State Bank of India,17.4124,78.4528,4.8x normal,22:00 - 00:30 hrs,Active (LEA Synced),PCR-Delta-04 (ETA: 3 min),Begumpet Cyber PS
+ATM-CL-02,H03,HDFC 24x7 Express Kiosk,HDFC Bank,17.4131,78.4515,3.9x normal,22:30 - 01:00 hrs,Active (LEA Synced),PCR-Delta-04 (ETA: 4 min),Begumpet Cyber PS
+ATM-CL-03,H07,Secunderabad Station ATM Cluster,Canara Bank,17.3985,78.4862,4.2x normal,21:45 - 00:00 hrs,Operational,PCR-Echo-09 (ETA: 5 min),Secunderabad Cyber PS
+ATM-CL-04,H07,Market Road ICICI Terminal,ICICI Bank,17.3972,78.4871,3.4x normal,22:15 - 00:45 hrs,Operational,PCR-Echo-09 (ETA: 6 min),Secunderabad Cyber PS
+ATM-CL-05,H02,Panjagutta Circle Axis ATM,Axis Bank,17.4452,78.4385,2.7x normal,23:00 - 02:00 hrs,Intermittent,PCR-Bravo-02 (ETA: 4 min),Panjagutta PS
+ATM-CL-06,H04,Hitec City Cyber Towers ATM,SBI,17.4410,78.3812,2.3x normal,00:00 - 03:00 hrs,Active (LEA Synced),PCR-Alpha-07 (ETA: 5 min),Madhapur Cyber PS
+ATM-CL-07,H09,Airport Toll Plaza Canara Kiosk,Canara Bank,17.3524,78.4389,1.9x normal,01:00 - 04:00 hrs,Active (LEA Synced),PCR-Golf-03 (ETA: 8 min),Shamshabad Cyber PS
+ATM-CL-08,H06,Financial District ICICI Hub,ICICI Bank,17.4185,78.3490,2.1x normal,23:30 - 02:30 hrs,Active (LEA Synced),PCR-Tango-08 (ETA: 6 min),Gachibowli PS

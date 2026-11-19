@@ -1,0 +1,8 @@
+mule_account_id,bank_name,ifsc_prefix,account_holder_alias,layer_depth,inflow_amount,outflow_amount,current_balance,lien_status,first_flagged_time,linked_complaints_count,risk_score,predicted_cashout_atm_zone
+MULE-SBI-4891,State Bank of India,SBIN0004891,R. Kumar (Mule Layer 1),Layer 1 (Direct Inflow),482000,394000,88000,FROZEN_CFCFRMS,2026-09-23T14:10:00+05:30,8,94,H03
+MULE-HDFC-9102,HDFC Bank,HDFC0009102,V. Sharma (Aggregator Layer 2),Layer 2 (Layering Hub),860000,740000,120000,ACTIVE_HIGH_RISK,2026-09-23T15:20:00+05:30,6,89,H07
+MULE-PAYTM-3120,Paytm Payments Bank,PYTM0123456,S. Verma (Micro-Splitter),Layer 1 (Direct Inflow),145000,118000,27000,PENDING_LIEN,2026-09-23T16:05:00+05:30,4,72,H02
+MULE-CANARA-5521,Canara Bank,CNRB0005521,Deepak M. (Bulk Courier),Layer 2 (Layering Hub),590000,530000,60000,ACTIVE_HIGH_RISK,2026-09-23T16:45:00+05:30,5,86,H03
+MULE-AXIS-8832,Axis Bank,UTIB0008832,Anil G. (Cashout Runner L3),Layer 3 (Terminal Cashout),380000,320000,60000,ACTIVE_HIGH_RISK,2026-09-23T17:15:00+05:30,4,81,H07
+MULE-AIRTEL-7741,Airtel Payments Bank,AIRP0000001,P. Joshi (P2P Smurf),Layer 1 (Direct Inflow),82000,79000,3000,FROZEN_CFCFRMS,2026-09-23T18:00:00+05:30,3,65,H09
+MULE-ICICI-6619,ICICI Bank,ICIC0006619,Mohd K. (Layer 3 Runner),Layer 3 (Terminal Cashout),290000,240000,50000,PENDING_LIEN,2026-09-23T18:40:00+05:30,2,58,H05
